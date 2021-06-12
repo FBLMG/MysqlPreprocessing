@@ -6,4 +6,5 @@
 ###### _insertData：添加数据
 ###### _updateData：更新数据
 ###### _deleteData：删除数据
-
+PHP官方参考文档地址
+https://www.php.net/manual/zh/class.mysqli-stmt.php
